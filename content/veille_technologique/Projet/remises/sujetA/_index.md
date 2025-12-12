@@ -1,13 +1,6 @@
 +++
-title = "Hiérarchie mémoire"
+title = "Voice-to-Text"
 weight = 1
-[params]
-  author = 'Thomas Piquet'
 +++
 
-> [!info] 
-> Description du projet et de l'equipe.
-
-## La hiérarchie mémoire dans les microprocesseur généraliste.
-
-Par Thomas Piquet.
+Projet sur la reconnaissance vocale (Voice-to-Text).
