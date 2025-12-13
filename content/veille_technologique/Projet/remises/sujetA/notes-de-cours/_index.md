@@ -3,7 +3,6 @@ title = "Notes de cours"
 weight = 1
 +++
 
-Notes de cours sur la reconnaissance vocale (Voice-to-Text).
 
 
 

@@ -57,6 +57,8 @@ Lien:
 
 
 ##### Sources YouTube et réseaux sociaux
+Voici les videos youtube que j'ai regardé pour en apprendre plus sur le sujet : 
+
 - https://www.youtube.com/watch?v=5meAZFpjJ2g
 - https://www.youtube.com/watch?v=HbY51mVKrcE&t=169s
 - https://www.youtube.com/watch?v=B8NXppu6MY8&t=369s

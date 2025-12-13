@@ -15,7 +15,7 @@ C’est durant cette étape que le son est changé en spectrogramme, une image q
 
 ##### 3- Compréhension du texte — NLP / TAL 
 
-Une fois le texte obtenu, le système va maintenant essayer de comprendre la demande. C'est là que le **NLP (Natural Language Processing)/ TAL (traitements automatiques des langues)** intervient. Cette méthode sert à identifier les mots importants, comprendre l'intention de la personne qui parle, analyser le contexte.
+Une fois le texte obtenu, le système va maintenant essayer de comprendre la demande. C'est là que cette methode intervient : **NLP (Natural Language Processing)/ TAL (traitements automatiques des langues)** . Cette méthode sert à identifier les mots importants, comprendre l'intention de la personne qui parle et analyser le contexte.
 
 Exemple : si je demande au système : « Mets une alarme demain à 7 h » 
 le système va comprendre que mon intention est de créer une alarme. 
@@ -34,7 +34,7 @@ De nombreux assistants vocaux mettent l’audio dans le cloud pour être analys�
 
 - Les serveurs ont beaucoup plus de puissance, ce qui permet d’analyser la voix plus rapidement et plus précisément.
 - La précision est souvent meilleure, car les modèles sont mis à jour régulièrement.
-- Les mises à jour sont automatiques, donc le système devient meilleur sans que l’utilisateur ait à faire quoi que ce soit. 
+- Les mises à jour sont automatiques, donc le système devient meilleur sans que l’utilisateur fasse quoi que ce soit. 
 
 Cependant, utiliser le cloud a aussi des inconvénients : 
 
@@ -42,7 +42,7 @@ Cependant, utiliser le cloud a aussi des inconvénients :
 - La confidentialité cause des problèmes, car la voix doit quitter l’appareil et être envoyée sur un serveur externe, ce qui peut inquiéter certains utilisateurs. 
 
 ### 5.2 Pourquoi le local ? 
-De plus en plus de systèmes commencent maintenant à fonctionner localement, c'est-à-dire directement sur l'appareil, sans envoyer les données dans le cloud. Des modèles comme Whisper, Vosk ou des systèmes directement intégrés dans certains téléphones récents permettent cette approche. Utiliser le local offre plusieurs avantages : 
+De plus en plus de systèmes commencent maintenant à fonctionner localement, c'est-à-dire directement sur l'appareil, sans envoyer les données dans le cloud. Des modèles comme Whisper, Vosk ou des systèmes directement intégrés dans certains téléphones récents permettent cela. Utiliser le local offre plusieurs avantages : 
 
 - La confidentialité est meilleure, car les données restent sur l'appareil.
 - Il n'y a pas besoin d'Internet, ce qui permet d'utiliser le système n'importe où.
@@ -67,7 +67,7 @@ En plus des accents, plusieurs régions ont leurs propres expressions ou façons
 Les langues peu parlées sont aussi un défi, car les chercheurs ont moins d'enregistrements audio pour entraîner les modèles. Puisqu'il y a moins de données, l'IA n'apprend pas correctement, et cela entraîne une moins bonne précision.
 
 ##### 4- Hésitation réelle  
-Dans la vraie vie, les gens ne parlent pas comme lorsqu'ils font l'enregistrement. Ils hésitent, répètent, coupent leurs phrases ou parlent trop vite. Ce sont des comportements naturels d'être humain qui peuvent compliquer le travail du modèle qui n'est pas habitué à ça. Il va essayer de deviner ce qui est réellement dit ou essayer de déterminer si le mot existe ou pas.
+Dans la vraie vie, les gens ne parlent pas comme lorsqu'ils font l'enregistrement. Ils hésitent, ils répètent, parfois ils coupent leurs phrases ou ils parlent trop vite. Ce sont des comportements naturels d'être humain qui peuvent compliquer le travail du modèle qui n'est pas habitué à ça. Il va essayer de deviner ce qui est réellement dit ou essayer de déterminer si le mot existe ou pas.
 
 ##### 5- Bruit autour 
 Enfin, le bruit autour de la personne peut affecter la qualité du Voice-to-Text. Que ce soit dans un environnement bruyant, comme dans la rue, dans une voiture ou dans une pièce avec plusieurs personnes, cela peut rendre la reconnaissance vocale beaucoup moins efficace. Même les meilleurs modèles peuvent se tromper lorsque le son de la voix est mélangé au bruit. 
@@ -76,7 +76,7 @@ Enfin, le bruit autour de la personne peut affecter la qualité du Voice-to-Text
 ## 7. Conclusion 
 La technologie Voice-to-Text est un mélange de traitement du son, de deep learning et de grande puissance de calcul pour que les machines comprennent la voix humaine. Grâce aux GPU et aux énormes quantités de données utilisées pour entraîner les modèles, la reconnaissance vocale est devenue beaucoup plus précise qu’avant. Elle peut maintenant comprendre la majorité des phrases du quotidien et répondre rapidement aux demandes des utilisateurs. Même si cette technologie fonctionne bien, elle reste imparfaite. Il reste encore des certains trucs à améliorer pour cette technologie puisse prendre un autre niveau comme mentionnée plus haut.  
 
-Malgré ces défis, le Voice-to-Text fait maintenant partie de la vie de tous les jours : téléphones, sous-titres, assistants vocaux, etc. Dans les prochaines années, on peut s'attendre à ce que ces systèmes deviennent encore plus rapides, plus privés et meilleurs pour comprendre toutes les façons de parler.
+Malgré ces défis, le Voice-to-Text fait maintenant partie de la vie de tous les jours. Dans les prochaines années, on peut s'attendre à ce que ces systèmes deviennent encore plus rapides, plus privés et meilleurs pour comprendre toutes les façons de parler.
 
 
 ##### Sources :
